@@ -159,4 +159,17 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 > [!CAUTION] 
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
 
-<h1 align="center"><code>BYEXE OFFICIAL</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/file_00000000602872098299a0d3656e10a0_1.png" width="590"><br><br>
+<h1 align="center"><code>BYEXE OFFICIAL</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/file_00000000d56071fab20fe0747468dd8c.png" width="590"><br><br>
+  
+<p align="center">
+  <a href="https://wa.me/6285881196958">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"
+         width="48%">
+  </a>
+  <a href="https://t.me/AlbertBlackHat">
+    <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"
+         width="48%">
+  </a>
+</p>
+
+> _© Byexe Official | Minggu 28 Des 2025_
