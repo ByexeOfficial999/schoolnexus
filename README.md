@@ -158,6 +158,7 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 
 > [!CAUTION] 
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
+___
 
 ### List Harga Akses Tools Murdox
 | MASA AKTIF | HARGA |
@@ -166,6 +167,14 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 | ![](https://img.shields.io/badge/1_MINGGU-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_30.000-SAJA-success?style=for-the-badge) |
 | ![](https://img.shields.io/badge/1_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_50.000-SAJA-success?style=for-the-badge) |
 | ![](https://img.shields.io/badge/2_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_80.000-SAJA-success?style=for-the-badge) |
+
+### Payment Yang Tersedia 
+![DANA](https://img.shields.io/badge/DANA-Available-success?style=for-the-badge&logo=money)
+
+![QRIS](https://img.shields.io/badge/QRIS-Supported-success?style=for-the-badge&logo=google-pay)
+
+_Silahan hubungi admin untuk melakukan transaksi secara private dan aman. Tools beserta tutorial running nya akan anda terima setelah melakukan pembayaran._
+___
 
 <h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766938463472.jpg" width="590"><br><br>
   
