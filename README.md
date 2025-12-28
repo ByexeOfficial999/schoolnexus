@@ -27,6 +27,6 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/gambar.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-171027.png" alt="Contoh Gambar" width="500">
 
 </details>
