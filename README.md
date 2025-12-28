@@ -159,6 +159,15 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 > [!CAUTION] 
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
 
+### List Harga Akses Tools Murdox
+![Harga 1 Hari](https://img.shields.io/badge/1_Hari-Rp_20.000-success?logo=money&logoColor=white)
+
+![Harga 1 Minggu](https://img.shields.io/badge/1_Minggu-Rp_30.000-success?logo=money&logoColor=white)
+
+![Harga 1 Bulan](https://img.shields.io/badge/1_Bulan-Rp_50.000-success?logo=money&logoColor=white)
+
+![Harga 2 Bulan](https://img.shields.io/badge/1_Bulan-Rp_80.000-success?logo=money&logoColor=white)
+
 <h1 align="center"><code>BYEXE OFFICIAL</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/file_00000000d56071fab20fe0747468dd8c.png" width="590"><br><br>
   
 <p align="center">
