@@ -38,6 +38,14 @@
 
   <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766918505093.jpg" alt="Contoh Gambar" width="500">
 
+  ### Cara Kerja
+  - Pilih Template
+  - Dapet Link Phishing
+  - Kirim Link Ke Target
+  - Target Buka Link
+  - Lokasi Ditampilkan Di Terminal
+__________________________
+
 </details>
 
 <details>
