@@ -173,7 +173,7 @@ ___
 
 ![QRIS](https://img.shields.io/badge/QRIS-Supported-success?style=for-the-badge&logo=google-pay)
 
-_Silahan hubungi admin untuk melakukan transaksi secara private dan aman. Tools beserta tutorial running nya akan anda terima setelah melakukan pembayaran._
+_Silakan hubungi admin untuk melakukan transaksi secara private dan aman. Tools beserta tutorial running-nya akan Anda terima setelah melakukan pembayaran. Kami mempunyai sebuah [Channel WhatsApp](https://whatsapp.com/channel/0029VbBND2G5Ui2ShpZFNy0t) yang sengaja dibuat untuk membuktikan bahwa komunitas kami menjalankan transaksinya dengan aman dan terpercaya._
 ___
 
 <h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766938463472.jpg" width="590"><br><br>
