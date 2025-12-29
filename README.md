@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/static/v1?label=Python&color=green&message=3.12&logo=python&logoColor=white&style=flat">
   <img src="https://img.shields.io/github/forks/ByexeOfficial999/docs_tools_murdox?logo=github&style=flat"><br>
 <br><br>
+
 **Tools doxing** adalah **perangkat lunak atau skrip** yang digunakan untuk **mengumpulkan, mengolah, dan menampilkan informasi terkait identitas atau jejak digital seseorang** dari berbagai sumber data, lalu menyajikannya dalam satu tampilan atau sistem tertentu.
 
 ### Data Yang Didapat
