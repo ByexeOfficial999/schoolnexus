@@ -60,7 +60,7 @@ __________________________
   - Dapet Link Phishing
   - Kirim Link Ke Target
   - Target Buka Link
-  - Lokasi Ditampilkan Di Terminal
+  - Kamera Langsung Tersimpan Di Folder Termux Anda Menjalankan Scriptnya
 __________________________
 
 </details>
