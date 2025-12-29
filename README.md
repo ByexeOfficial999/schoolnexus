@@ -171,7 +171,7 @@ ___
 ### Payment Yang Tersedia 
 ![DANA](https://img.shields.io/badge/DANA-Available-success?style=for-the-badge&logo=money)
 
-![QRIS](https://img.shields.io/badge/QRIS-Supported-success?style=for-the-badge&logo=google-pay)
+![QRIS](https://img.shields.io/badge/QRIS-Supported-success?style=for-the-badge&logo=money)
 
 _Silakan hubungi admin untuk melakukan transaksi secara private dan aman. Tools beserta tutorial running-nya akan Anda terima setelah melakukan pembayaran. Kami mempunyai sebuah [Channel WhatsApp](https://whatsapp.com/channel/0029VbBND2G5Ui2ShpZFNy0t) yang sengaja dibuat untuk membuktikan bahwa komunitas kami menjalankan transaksinya dengan aman dan terpercaya._
 ___
