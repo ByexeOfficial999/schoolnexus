@@ -163,10 +163,10 @@ ___
 ### List Harga Akses Tools Murdox
 | MASA AKTIF | HARGA |
 |--------|-------|
-| ![](https://img.shields.io/badge/1_HARI!_ㅤ-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_10.000-SAJA-success?style=for-the-badge) |
-| ![](https://img.shields.io/badge/1_MINGGU-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_30.000-SAJA-success?style=for-the-badge) |
-| ![](https://img.shields.io/badge/1_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_50.000-SAJA-success?style=for-the-badge) |
-| ![](https://img.shields.io/badge/2_BULAN!!_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_80.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/1_Bulan_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_50.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/2_Bulan-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_80.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/3_BULAN_-M.A-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_100.000-SAJA-success?style=for-the-badge) |
+| ![](https://img.shields.io/badge/_-PERMANEN_ACCESS-red?style=for-the-badge) | ![](https://img.shields.io/badge/IDR_150.000-SAJA-success?style=for-the-badge) |
 
 ### Payment Yang Tersedia 
 ![DANA](https://img.shields.io/badge/DANA-Available-success?style=for-the-badge&logo=money)
