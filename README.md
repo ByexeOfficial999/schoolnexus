@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/github/forks/ByexeOfficial999/docs_tools_murdox?logo=github&style=flat"><br>
 <br><br>
 
+© Source Code Dump DB Sekolah By [Rolandino](https://github.com/opettt-hash/SCHOOLDOXV2.git)
+
 **Tools doxing** adalah **perangkat lunak atau skrip** yang digunakan untuk **mengumpulkan, mengolah, dan menampilkan informasi terkait identitas atau jejak digital seseorang** dari berbagai sumber data, lalu menyajikannya dalam satu tampilan atau sistem tertentu.
 
 ### Data Yang Didapat
@@ -109,8 +111,6 @@ __________________________
   ### Cara Kerja
   - Masukkan NPSN Target
   - Database Tersimpan Di /sdcard/DUMP_DB
-
-© Source Code By [Rolandino](https://t.me/rolandino28)
 __________________________
 
 </details>
