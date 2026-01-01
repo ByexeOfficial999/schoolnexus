@@ -122,7 +122,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766920879685.jpg" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-135845.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NISN Target
