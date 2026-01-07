@@ -195,11 +195,11 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 ___
 
 ### List Harga Akses Tools Murdox
-| MASA AKTIF | HARGA |
-|--------|-------|
-| ***1 Minggu*** | ***IDR 50.000*** |
-| ***1 Bulan*** | ***IDR 70.000*** |
-| ***Permanen*** | ***IDR 100.000*** |
+| MASA AKTIF | HARGA | FREE UPDATE |
+|--------|-------|--------|
+| ***1 Minggu*** | ***IDR 50.000*** | ❌
+| ***1 Bulan*** | ***IDR 70.000*** | ✅
+| ***Permanen*** | ***IDR 100.000*** | ✅
 
 ### Payment Yang Tersedia 
 ![DANA](https://img.shields.io/badge/DANA-Available-success?style=for-the-badge&logo=money)
