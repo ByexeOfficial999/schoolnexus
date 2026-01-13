@@ -1,5 +1,5 @@
 <h1 align="center"><code>SCHOOLNEXUS</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/apaya.png" width="590"><br><br>
-  <img src="https://img.shields.io/static/v1?label=MuridDoxing&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=SCHOOLNEXUS&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Byexe+Official&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ByexeOfficial999/docs_tools_murdox?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=1.90&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
