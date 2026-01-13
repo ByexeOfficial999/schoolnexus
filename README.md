@@ -197,7 +197,7 @@ Package & Module Sudah Auto Install Nanti. Jadi Tenang Aja
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid atau minta sama admin Byexe. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya.**
 ___
 
-### List Harga Akses Tools Murdox
+### List Harga Akses SCHOOLNEXUS
 | MASA AKTIF | HARGA | FREE UPDATE |
 |--------|-------|--------|
 | ***1 Minggu*** | ***IDR 50.000*** | ❌
@@ -220,7 +220,7 @@ _Silakan hubungi admin untuk melakukan transaksi secara private dan aman. Tools 
 | 4  | Rolandino | Buronan Polda|
 | 5  | Polygon | Decoder|
 
-### Reseller Resmi Tools Murdox
+### Reseller Resmi SCHOOLNEXUS
 | No | Nama |
 |----|------|
 | 1  | Drexe |
