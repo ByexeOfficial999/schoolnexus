@@ -1,4 +1,4 @@
-<h1 align="center"><code>MURID DOXING</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/apaya.png" width="590"><br><br>
+<h1 align="center"><code>SCHOOLNEXUS</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/apaya.png" width="590"><br><br>
   <img src="https://img.shields.io/static/v1?label=MuridDoxing&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Byexe+Official&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ByexeOfficial999/docs_tools_murdox?logo=github&style=for-the-badge">
@@ -11,7 +11,7 @@
 
 © Source Code Dump DB Sekolah By [Rolandino](https://github.com/opettt-hash/SCHOOLDOXV2.git)
 
-**Tools doxing** adalah **perangkat lunak atau skrip** yang digunakan untuk **mengumpulkan, mengolah, dan menampilkan informasi terkait identitas atau jejak digital seseorang** dari berbagai sumber data, lalu menyajikannya dalam satu tampilan atau sistem tertentu.
+***SCHOOLNEXUS*** merupakan **mesin intel data sekolah** yang dirancang untuk **menggabungkan, menyaring, dan memetakan informasi siswa** dari berbagai **repositori data pendidikan**, guna keperluan **pencarian, audit, dan investigasi internal**.
 
 ### Data Yang Didapat
 - Lokasi Seperti Titik Kordinat Dan Link GMaps
