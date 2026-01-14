@@ -1,12 +1,12 @@
-<h1 align="center"><code>SCHOOLNEXUS</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1768304569796.jpg" width="590"><br><br>
+<h1 align="center"><code>SCHOOLNEXUS</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/1768304569796.jpg" width="590"><br><br>
   <img src="https://img.shields.io/static/v1?label=SCHOOLNEXUS&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Byexe+Official&logo=nim&logoColor=white&style=for-the-badge"><br>
-  <img src="https://img.shields.io/github/stars/ByexeOfficial999/docs_tools_murdox?logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/ByexeOfficial999/schoolnexus?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=1.90&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
 
   <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
   <img src="https://img.shields.io/static/v1?label=Python&color=green&message=3.12&logo=python&logoColor=white&style=flat">
-  <img src="https://img.shields.io/github/forks/ByexeOfficial999/docs_tools_murdox?logo=github&style=flat"><br>
+  <img src="https://img.shields.io/github/forks/ByexeOfficial999/schoolnexus?logo=github&style=flat"><br>
 <br><br>
 
 © Source Code Dump DB Sekolah By [Rolandino](https://github.com/opettt-hash/SCHOOLDOXV2.git)
@@ -32,7 +32,7 @@
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260113-210954.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260113-210954.png" alt="Contoh Gambar" width="500">
 
 </details>
 
@@ -41,7 +41,7 @@
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766918505093.jpg" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/1766918505093.jpg" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Pilih Template
@@ -58,7 +58,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/IMG-20251228-WA0053.jpg" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/IMG-20251228-WA0053.jpg" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Pilih Tunnel
@@ -75,7 +75,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175546.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20251228-175546.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan Alamat IP Target
@@ -89,7 +89,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-175824.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20251228-175824.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan Nomor Telepon
@@ -103,7 +103,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20251228-151435.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20251228-151435.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NPSN Target
@@ -117,7 +117,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-135845.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260101-135845.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NISN Target
@@ -133,7 +133,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-135733.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260101-135733.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NPSN Sekolah Siswa
@@ -148,7 +148,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260101-134510.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260101-134510.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan Nomor Telepon
@@ -162,7 +162,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260104-110326.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260104-110326.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan Nama/NIK/NUPTK
@@ -176,7 +176,7 @@ __________________________
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/Screenshot_20260105-182735.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260105-182735.png" alt="Contoh Gambar" width="500">
 
   ### Cara Kerja
   - Masukkan NIK
@@ -226,7 +226,7 @@ _Silakan hubungi admin untuk melakukan transaksi secara private dan aman. Tools 
 | 1  | Drexe |
 ___
 
-<h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/docs_tools_murdox/blob/main/1766938463472.jpg" width="590"><br><br>
+<h1 align="center"><code>CONTACT ME</code></h1> <p align="center"> <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/1766938463472.jpg" width="590"><br><br>
   
 <p align="center">
   <a href="https://wa.me/6283847035413">
