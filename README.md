@@ -32,7 +32,7 @@
 
   <br>
 
-  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260113-210954.png" alt="Contoh Gambar" width="500">
+  <img src="https://github.com/ByexeOfficial999/schoolnexus/blob/main/Screenshot_20260119-165237.png" alt="Contoh Gambar" width="500">
 
 </details>
 
